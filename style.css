@@ -1,0 +1,89 @@
+/*Red = #FFB4B0
+Blue = #4DD7FA
+Light yellow = #FEFAC0
+Dark yellow = #785616*/
+
+/*  class .  */
+/*  id #  */
+
+
+body {
+  margin: auto 0;
+}
+
+/*whole page container*/
+#main-container {
+  font-family: sans-serif;
+  width: 80%;
+  border: 2px solid black;
+ }
+
+/*nav bar container*/
+#navbar {
+  background-color: #FFB4B0;
+  padding: 1px;
+  border: 2px solid black;
+ }
+
+nav li {
+  list-style-type: none;
+  display: inline-block;
+ }
+
+#content {
+  padding: 1px;
+}
+
+/*blue left side container*/
+#options {
+  display: inline-block;
+  background-color: #4DD7FA;
+  width: 25%;
+  border: 2px solid black;
+  padding: 20px 15px 15px;
+}
+
+
+/*styling for dropdown menus
+
+.song-length {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.artist {
+  padding: 10px;
+ }
+
+.album {
+  padding: 10px;*/
+  /*margin: 20px;*/
+ /*}
+
+select {
+  width: 70%;
+  padding: 10px;
+ }
+
+.genre {
+  column-count: 2;
+  padding: 10px;
+}
+
+.button {
+padding: 15px;
+font-size: 12px;
+}
+
+
+/*yellow right side container*/
+#songs {
+  display: inline-block;
+  background-color: #FEFAC0;
+  width: 50%;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+
+
