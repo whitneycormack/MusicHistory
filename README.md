@@ -1,6 +1,6 @@
 #MusicHistory
 
-##Music History Exercises 1 - 4
+##Music History Exercise 1
 
 ###Individual Assignment
 
